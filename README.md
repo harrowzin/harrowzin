@@ -6,6 +6,11 @@
   <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrowzin&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
+<div align="center" style="display:inline-block"><br>
+  <img height=300px width="600px" src="https://gifdb.com/images/file/8-bit-lo-fi-waterfront-girl-cqfxgvq8jqiho3hv.gif">
+</div>
+
+  
   <div align = "center"> 
 
 ### Currently Studying:
@@ -41,6 +46,3 @@
  
 </div>
 
-<div align="center" style="display:inline-block"><br>
-  <img height=300px width="600px" src="https://gifdb.com/images/file/8-bit-lo-fi-waterfront-girl-cqfxgvq8jqiho3hv.gif">
-</div>
